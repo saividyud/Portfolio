@@ -1,7 +1,31 @@
 ---
-title: "Portfolio"
+title: "Sai Vidyud Senthil Nathan"
+subtitle: "Graduate Student in Astrophysics"
+about:
+  template: trestles
+  image: images/profile.svg
+  image-shape: rounded
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/saividyud
+    - text: "<img src='images/orcid.svg' width='20' height='20' alt='ORCID'>"
+      href: https://orcid.org/0009-0002-8105-1207
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sai-vidyud-senthil-nathan/
+    - icon: envelope
+      text: Email
+      href: mailto:saividyud@g.ucla.edu
+    - icon: file-earmark-text
+      text: Resume
+      href: files/resume.pdf
 ---
 
-This is a Quarto website.
+Welcome! I'm a graduate studnet researcher focused on
+exoplanets and astrophotonic instrumentation. This site collects my research and engineering projects throughout my undergraduate and graduate studies.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm currently a graduate student in astronomy and astrophysics at University of California, Los Angeles. My interests span all things related to exoplanets (detection, atmospheres, dynamics) and instrumentation (spectroscopy, photometry, astrophotonics).
+
+Explore my [projects](projects.qmd) and [research](research.qmd), or read a bit
+[about me](about.qmd).

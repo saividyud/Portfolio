@@ -1,0 +1,41 @@
+---
+title: "Research Project One"
+description: "One-line summary of the research question and contribution."
+date: "2026-02-01"
+categories: [Research]
+image: ../images/projects/project-4.svg
+image-alt: "Research project one thumbnail"
+---
+
+## Abstract
+
+A short abstract-style summary of the research: the question, your method, and
+the key finding.
+
+## Motivation & Research Question
+
+Why this problem matters and the specific question you investigated.
+
+## Methods
+
+Describe your experimental or computational approach, datasets, and tools.
+
+![Caption describing a key figure or result.](../images/projects/project-4.svg){fig-alt="Placeholder figure"}
+
+## Key Findings
+
+- Finding one.
+- Finding two.
+- Finding three.
+
+## Status & Collaborators
+
+- **Status:** e.g. Ongoing / Under review / Published
+- **Advisor / PI:** Name
+- **Collaborators:** Names or lab
+
+## Links
+
+- [Paper / Preprint](#)
+- [Code / Data](#)
+- [Poster / Slides](#)

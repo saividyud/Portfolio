@@ -1,0 +1,17 @@
+---
+title: "Projects"
+listing:
+  contents: projects
+  type: grid
+  sort: "date desc"
+  categories: true
+  sort-ui: false
+  filter-ui: true
+  fields: [image, title, description, categories, date]
+  image-height: "200px"
+page-layout: full
+---
+
+A selection of engineering and research projects. Use the category filters to
+browse by area. Each card links to a placeholder page you can fill in with
+details, figures, and links.

@@ -1,21 +1,43 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  title: "Portfolio"
+  title: "Sai Vidyud Senthil Nathan"
+  description: "Astrophysics research and aerospace engineering portfolio."
+  favicon: images/rocket-takeoff.svg
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: research.qmd
+        text: Research
+    right:
+      - icon: github
+        href: https://github.com/saividyud
+        aria-label: GitHub
+      - text: "<img src='/images/orcid.svg' width='20' height='20' alt='ORCID'>"
+        href: https://orcid.org/0009-0002-8105-1207
+        aria-label: ORCID
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sai-vidyud-senthil-nathan/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:saividyud@g.ucla.edu
+        aria-label: Email
+  page-footer:
+    center: "Copyright 2026, Sai Vidyud Senthil Nathan"
+    background: light
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - lux
     css: styles.css
     toc: true
-
-
-
+    grid:
+      body-width: 900px

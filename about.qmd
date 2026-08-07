@@ -2,4 +2,80 @@
 title: "About"
 ---
 
-About this site
+## Hi, I'm Sai! {.unnumbered .unlisted}
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-8}
+Write a few paragraphs introducing yourself here. Talk about what you do, what
+problems you like to solve, and what motivates your work in engineering and
+research.
+
+A good second paragraph covers your background, the domains you've worked in,
+and the kinds of tools and methods you enjoy using. Keep it conversational and
+specific.
+
+Close with what you're looking for or excited about next, and how people can
+reach you.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](images/profile.svg){.about-photo fig-alt="Your photo"}
+:::
+
+:::
+
+## Education
+
+- **Ph.D. in Astronomy and Astrophysics** — University of California, Los Angeles, 2026-present
+- **B.S. in Astronomy and Astrphysics** — The Ohio State University, 2022-2026
+- **B.S. in Aerospace Engineering** — The Ohio State University, 2022-2026
+
+## Experience
+
+**[Job Title]** · Company / Lab Name · *Month 20XX – Present*
+
+- Highlight a key responsibility or accomplishment.
+- Quantify impact where you can (e.g. "reduced runtime by 40%").
+
+**[Previous Title]** · Company / Lab Name · *Month 20XX – Month 20XX*
+
+- Describe what you built or researched.
+- Note tools, scale, or outcomes.
+
+## Skills
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+**Languages**
+
+- Python
+- MATLAB
+- C/C++
+:::
+
+::: {.g-col-12 .g-col-md-4}
+**Tools & Frameworks**
+
+- Astropy
+- REBOUND
+- Ansys FLUENT
+- Ansys Systems Tool Kit (STK)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+**Domains**
+
+- [Domain 1]
+- [Domain 2]
+- [Domain 3]
+:::
+
+:::
+
+## Get in touch
+
+The best way to reach me is by [email](mailto:saividyud@g.ucla.edu). You can also
+find me on [GitHub](https://github.com/saividyud) and
+[LinkedIn](https://www.linkedin.com/in/sai-vidyud-senthil-nathan/).

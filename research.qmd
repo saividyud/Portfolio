@@ -1,0 +1,29 @@
+---
+title: "Research"
+---
+
+My research focuses on [one or two sentences describing your research area and
+questions]. Below is a running list of publications, preprints, and
+presentations. See the [Projects](projects.qmd) page for deeper write-ups.
+
+## Publications
+
+- **Author, A., You, & Author, C.** (20XX). *Title of the paper.* Journal /
+  Conference Name, Vol(Issue), pages. [[DOI]](#) [[PDF]](#)
+- **You & Author, B.** (20XX). *Title of the paper.* Journal / Conference Name.
+  [[DOI]](#) [[PDF]](#)
+
+## Preprints
+
+- **You et al.** (20XX). *Title of the preprint.* Under review at Venue.
+  [[arXiv]](#) [[PDF]](#)
+
+## Presentations
+
+- **You.** (20XX). *Talk title.* Conference / Seminar Name, Location.
+  [[Slides]](#)
+- **You.** (20XX). *Poster title.* Symposium Name, Location. [[Poster]](#)
+
+## Workshops
+
+- *Workshop title* — role (organizer / participant), Host, 20XX.
