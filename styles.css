@@ -1,1 +1,60 @@
-/* css styles */
+/* ===== Portfolio styles ===== */
+
+:root {
+  --accent: #2563eb;
+}
+
+/* Generous line height for readability */
+body {
+  line-height: 1.65;
+}
+
+/* Section headings get a little breathing room and an accent underline */
+h2 {
+  margin-top: 2.2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid #eef2f7;
+}
+
+/* About page photo */
+.about-photo {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(15, 23, 42, 0.12);
+}
+
+/* Project listing cards */
+.quarto-grid-item {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.quarto-grid-item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.12);
+}
+
+.quarto-grid-item .card-img-top img {
+  object-fit: cover;
+}
+
+/* Category pills */
+.quarto-grid-item .listing-category,
+.quarto-category {
+  background: #eff6ff;
+  color: var(--accent);
+  border-radius: 999px;
+  padding: 0.1rem 0.6rem;
+  font-size: 0.75rem;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

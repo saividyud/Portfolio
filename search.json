@@ -1,16 +1,359 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Portfolio",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "A selection of engineering and research projects. Use the category filters to browse by area. Each card links to a placeholder page you can fill in with details, figures, and links.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nResearch Project One\n\n\n\nResearch\n\n\n\nOne-line summary of the research question and contribution.\n\n\n\nFeb 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nEngineering Project One\n\n\n\nEngineering\n\n\n\nOne-line summary of what this project does and why it matters.\n\n\n\nJan 15, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nEngineering Project Two\n\n\n\nEngineering\n\n\n\nOne-line summary of what this project does and why it matters.\n\n\n\nSep 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Project Two\n\n\n\nResearch\n\n\n\nOne-line summary of the research question and contribution.\n\n\n\nJun 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nEngineering Project Three\n\n\n\nEngineering\n\n\n\nOne-line summary of what this project does and why it matters.\n\n\n\nApr 22, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on [one or two sentences describing your research area and questions]. Below is a running list of publications, preprints, and presentations. See the Projects page for deeper write-ups."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\nAuthor, A., You, & Author, C. (20XX). Title of the paper. Journal / Conference Name, Vol(Issue), pages. [DOI] [PDF]\nYou & Author, B. (20XX). Title of the paper. Journal / Conference Name. [DOI] [PDF]"
+  },
+  {
+    "objectID": "research.html#preprints",
+    "href": "research.html#preprints",
+    "title": "Research",
+    "section": "Preprints",
+    "text": "Preprints\n\nYou et al. (20XX). Title of the preprint. Under review at Venue. [arXiv] [PDF]"
+  },
+  {
+    "objectID": "research.html#presentations",
+    "href": "research.html#presentations",
+    "title": "Research",
+    "section": "Presentations",
+    "text": "Presentations\n\nYou. (20XX). Talk title. Conference / Seminar Name, Location. [Slides]\nYou. (20XX). Poster title. Symposium Name, Location. [Poster]"
+  },
+  {
+    "objectID": "research.html#workshops",
+    "href": "research.html#workshops",
+    "title": "Research",
+    "section": "Workshops",
+    "text": "Workshops\n\nWorkshop title — role (organizer / participant), Host, 20XX."
+  },
+  {
+    "objectID": "projects/research-project-2.html",
+    "href": "projects/research-project-2.html",
+    "title": "Research Project Two",
+    "section": "",
+    "text": "A short abstract-style summary of the research: the question, your method, and the key finding."
+  },
+  {
+    "objectID": "projects/research-project-2.html#abstract",
+    "href": "projects/research-project-2.html#abstract",
+    "title": "Research Project Two",
+    "section": "",
+    "text": "A short abstract-style summary of the research: the question, your method, and the key finding."
+  },
+  {
+    "objectID": "projects/research-project-2.html#motivation-research-question",
+    "href": "projects/research-project-2.html#motivation-research-question",
+    "title": "Research Project Two",
+    "section": "Motivation & Research Question",
+    "text": "Motivation & Research Question\nWhy this problem matters and the specific question you investigated."
+  },
+  {
+    "objectID": "projects/research-project-2.html#methods",
+    "href": "projects/research-project-2.html#methods",
+    "title": "Research Project Two",
+    "section": "Methods",
+    "text": "Methods\nDescribe your experimental or computational approach, datasets, and tools.\n\n\n\nCaption describing a key figure or result."
+  },
+  {
+    "objectID": "projects/research-project-2.html#key-findings",
+    "href": "projects/research-project-2.html#key-findings",
+    "title": "Research Project Two",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nFinding one.\nFinding two.\nFinding three."
+  },
+  {
+    "objectID": "projects/research-project-2.html#status-collaborators",
+    "href": "projects/research-project-2.html#status-collaborators",
+    "title": "Research Project Two",
+    "section": "Status & Collaborators",
+    "text": "Status & Collaborators\n\nStatus: e.g. Ongoing / Under review / Published\nAdvisor / PI: Name\nCollaborators: Names or lab"
+  },
+  {
+    "objectID": "projects/research-project-2.html#links",
+    "href": "projects/research-project-2.html#links",
+    "title": "Research Project Two",
+    "section": "Links",
+    "text": "Links\n\nPaper / Preprint\nCode / Data\nPoster / Slides"
+  },
+  {
+    "objectID": "projects/engineering-project-3.html",
+    "href": "projects/engineering-project-3.html",
+    "title": "Engineering Project Three",
+    "section": "",
+    "text": "Briefly describe the project: the problem you set out to solve, the context, and the outcome."
+  },
+  {
+    "objectID": "projects/engineering-project-3.html#overview",
+    "href": "projects/engineering-project-3.html#overview",
+    "title": "Engineering Project Three",
+    "section": "",
+    "text": "Briefly describe the project: the problem you set out to solve, the context, and the outcome."
+  },
+  {
+    "objectID": "projects/engineering-project-3.html#role-timeline",
+    "href": "projects/engineering-project-3.html#role-timeline",
+    "title": "Engineering Project Three",
+    "section": "Role & Timeline",
+    "text": "Role & Timeline\n\nRole: e.g. Lead developer / Team of 4\nTimeline: Month 20XX – Month 20XX\nTools: e.g. MATLAB, Simulink, CFD"
+  },
+  {
+    "objectID": "projects/engineering-project-3.html#the-problem",
+    "href": "projects/engineering-project-3.html#the-problem",
+    "title": "Engineering Project Three",
+    "section": "The Problem",
+    "text": "The Problem\nWhat needed to be solved and why it was challenging."
+  },
+  {
+    "objectID": "projects/engineering-project-3.html#approach",
+    "href": "projects/engineering-project-3.html#approach",
+    "title": "Engineering Project Three",
+    "section": "Approach",
+    "text": "Approach\nHow you tackled it. Break this into steps or design decisions.\n\n\n\nCaption describing the figure."
+  },
+  {
+    "objectID": "projects/engineering-project-3.html#results",
+    "href": "projects/engineering-project-3.html#results",
+    "title": "Engineering Project Three",
+    "section": "Results",
+    "text": "Results\nWhat you achieved. Quantify outcomes where possible."
+  },
+  {
+    "objectID": "projects/engineering-project-3.html#what-i-learned",
+    "href": "projects/engineering-project-3.html#what-i-learned",
+    "title": "Engineering Project Three",
+    "section": "What I Learned",
+    "text": "What I Learned\nA short reflection on takeaways."
+  },
+  {
+    "objectID": "projects/engineering-project-3.html#links",
+    "href": "projects/engineering-project-3.html#links",
+    "title": "Engineering Project Three",
+    "section": "Links",
+    "text": "Links\n\nCode / Repository\nReport / Write-up\nDemo / Video"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Write a few paragraphs introducing yourself here. Talk about what you do, what problems you like to solve, and what motivates your work in engineering and research.\nA good second paragraph covers your background, the domains you’ve worked in, and the kinds of tools and methods you enjoy using. Keep it conversational and specific.\nClose with what you’re looking for or excited about next, and how people can reach you."
+  },
+  {
+    "objectID": "about.html#hi-im-sai",
+    "href": "about.html#hi-im-sai",
+    "title": "About",
+    "section": "",
+    "text": "Write a few paragraphs introducing yourself here. Talk about what you do, what problems you like to solve, and what motivates your work in engineering and research.\nA good second paragraph covers your background, the domains you’ve worked in, and the kinds of tools and methods you enjoy using. Keep it conversational and specific.\nClose with what you’re looking for or excited about next, and how people can reach you."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nPh.D. in Astronomy and Astrophysics — University of California, Los Angeles, 2026-present\nB.S. in Astronomy and Astrphysics — The Ohio State University, 2022-2026\nB.S. in Aerospace Engineering — The Ohio State University, 2022-2026"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\n[Job Title] · Company / Lab Name · Month 20XX – Present\n\nHighlight a key responsibility or accomplishment.\nQuantify impact where you can (e.g. “reduced runtime by 40%”).\n\n[Previous Title] · Company / Lab Name · Month 20XX – Month 20XX\n\nDescribe what you built or researched.\nNote tools, scale, or outcomes."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\n\n\nLanguages\n\nPython\nMATLAB\nC/C++\n\n\n\nTools & Frameworks\n\nAstropy\nREBOUND\nAnsys FLUENT\nAnsys Systems Tool Kit (STK)\n\n\n\nDomains\n\n[Domain 1]\n[Domain 2]\n[Domain 3]"
+  },
+  {
+    "objectID": "about.html#get-in-touch",
+    "href": "about.html#get-in-touch",
+    "title": "About",
+    "section": "Get in touch",
+    "text": "Get in touch\nThe best way to reach me is by email. You can also find me on GitHub and LinkedIn."
+  },
+  {
+    "objectID": "projects/research-project-1.html",
+    "href": "projects/research-project-1.html",
+    "title": "Research Project One",
+    "section": "",
+    "text": "A short abstract-style summary of the research: the question, your method, and the key finding."
+  },
+  {
+    "objectID": "projects/research-project-1.html#abstract",
+    "href": "projects/research-project-1.html#abstract",
+    "title": "Research Project One",
+    "section": "",
+    "text": "A short abstract-style summary of the research: the question, your method, and the key finding."
+  },
+  {
+    "objectID": "projects/research-project-1.html#motivation-research-question",
+    "href": "projects/research-project-1.html#motivation-research-question",
+    "title": "Research Project One",
+    "section": "Motivation & Research Question",
+    "text": "Motivation & Research Question\nWhy this problem matters and the specific question you investigated."
+  },
+  {
+    "objectID": "projects/research-project-1.html#methods",
+    "href": "projects/research-project-1.html#methods",
+    "title": "Research Project One",
+    "section": "Methods",
+    "text": "Methods\nDescribe your experimental or computational approach, datasets, and tools.\n\n\n\nCaption describing a key figure or result."
+  },
+  {
+    "objectID": "projects/research-project-1.html#key-findings",
+    "href": "projects/research-project-1.html#key-findings",
+    "title": "Research Project One",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nFinding one.\nFinding two.\nFinding three."
+  },
+  {
+    "objectID": "projects/research-project-1.html#status-collaborators",
+    "href": "projects/research-project-1.html#status-collaborators",
+    "title": "Research Project One",
+    "section": "Status & Collaborators",
+    "text": "Status & Collaborators\n\nStatus: e.g. Ongoing / Under review / Published\nAdvisor / PI: Name\nCollaborators: Names or lab"
+  },
+  {
+    "objectID": "projects/research-project-1.html#links",
+    "href": "projects/research-project-1.html#links",
+    "title": "Research Project One",
+    "section": "Links",
+    "text": "Links\n\nPaper / Preprint\nCode / Data\nPoster / Slides"
+  },
+  {
+    "objectID": "projects/engineering-project-1.html",
+    "href": "projects/engineering-project-1.html",
+    "title": "Engineering Project One",
+    "section": "",
+    "text": "Briefly describe the project: the problem you set out to solve, the context, and the outcome. Two or three sentences is plenty for the top of the page."
+  },
+  {
+    "objectID": "projects/engineering-project-1.html#overview",
+    "href": "projects/engineering-project-1.html#overview",
+    "title": "Engineering Project One",
+    "section": "",
+    "text": "Briefly describe the project: the problem you set out to solve, the context, and the outcome. Two or three sentences is plenty for the top of the page."
+  },
+  {
+    "objectID": "projects/engineering-project-1.html#role-timeline",
+    "href": "projects/engineering-project-1.html#role-timeline",
+    "title": "Engineering Project One",
+    "section": "Role & Timeline",
+    "text": "Role & Timeline\n\nRole: e.g. Lead developer / Team of 4\nTimeline: Month 20XX – Month 20XX\nTools: e.g. Python, ROS, SolidWorks"
+  },
+  {
+    "objectID": "projects/engineering-project-1.html#the-problem",
+    "href": "projects/engineering-project-1.html#the-problem",
+    "title": "Engineering Project One",
+    "section": "The Problem",
+    "text": "The Problem\nWhat needed to be solved and why it was challenging."
+  },
+  {
+    "objectID": "projects/engineering-project-1.html#approach",
+    "href": "projects/engineering-project-1.html#approach",
+    "title": "Engineering Project One",
+    "section": "Approach",
+    "text": "Approach\nHow you tackled it. Break this into steps or design decisions. Add figures where helpful:\n\n\n\nCaption describing the figure."
+  },
+  {
+    "objectID": "projects/engineering-project-1.html#results",
+    "href": "projects/engineering-project-1.html#results",
+    "title": "Engineering Project One",
+    "section": "Results",
+    "text": "Results\nWhat you achieved. Quantify outcomes where possible (performance, accuracy, cost, time saved)."
+  },
+  {
+    "objectID": "projects/engineering-project-1.html#what-i-learned",
+    "href": "projects/engineering-project-1.html#what-i-learned",
+    "title": "Engineering Project One",
+    "section": "What I Learned",
+    "text": "What I Learned\nA short reflection on takeaways or what you’d do differently."
+  },
+  {
+    "objectID": "projects/engineering-project-1.html#links",
+    "href": "projects/engineering-project-1.html#links",
+    "title": "Engineering Project One",
+    "section": "Links",
+    "text": "Links\n\nCode / Repository\nReport / Write-up\nDemo / Video"
+  },
+  {
+    "objectID": "projects/engineering-project-2.html",
+    "href": "projects/engineering-project-2.html",
+    "title": "Engineering Project Two",
+    "section": "",
+    "text": "Briefly describe the project: the problem you set out to solve, the context, and the outcome."
+  },
+  {
+    "objectID": "projects/engineering-project-2.html#overview",
+    "href": "projects/engineering-project-2.html#overview",
+    "title": "Engineering Project Two",
+    "section": "",
+    "text": "Briefly describe the project: the problem you set out to solve, the context, and the outcome."
+  },
+  {
+    "objectID": "projects/engineering-project-2.html#role-timeline",
+    "href": "projects/engineering-project-2.html#role-timeline",
+    "title": "Engineering Project Two",
+    "section": "Role & Timeline",
+    "text": "Role & Timeline\n\nRole: e.g. Lead developer / Team of 4\nTimeline: Month 20XX – Month 20XX\nTools: e.g. C++, embedded systems, PCB design"
+  },
+  {
+    "objectID": "projects/engineering-project-2.html#the-problem",
+    "href": "projects/engineering-project-2.html#the-problem",
+    "title": "Engineering Project Two",
+    "section": "The Problem",
+    "text": "The Problem\nWhat needed to be solved and why it was challenging."
+  },
+  {
+    "objectID": "projects/engineering-project-2.html#approach",
+    "href": "projects/engineering-project-2.html#approach",
+    "title": "Engineering Project Two",
+    "section": "Approach",
+    "text": "Approach\nHow you tackled it. Break this into steps or design decisions.\n\n\n\nCaption describing the figure."
+  },
+  {
+    "objectID": "projects/engineering-project-2.html#results",
+    "href": "projects/engineering-project-2.html#results",
+    "title": "Engineering Project Two",
+    "section": "Results",
+    "text": "Results\nWhat you achieved. Quantify outcomes where possible."
+  },
+  {
+    "objectID": "projects/engineering-project-2.html#what-i-learned",
+    "href": "projects/engineering-project-2.html#what-i-learned",
+    "title": "Engineering Project Two",
+    "section": "What I Learned",
+    "text": "What I Learned\nA short reflection on takeaways."
+  },
+  {
+    "objectID": "projects/engineering-project-2.html#links",
+    "href": "projects/engineering-project-2.html#links",
+    "title": "Engineering Project Two",
+    "section": "Links",
+    "text": "Links\n\nCode / Repository\nReport / Write-up\nDemo / Video"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sai Vidyud Senthil Nathan",
+    "section": "",
+    "text": "Welcome! I’m a graduate studnet researcher focused on exoplanets and astrophotonic instrumentation. This site collects my research and engineering projects throughout my undergraduate and graduate studies.\nI’m currently a graduate student in astronomy and astrophysics at University of California, Los Angeles. My interests span all things related to exoplanets (detection, atmospheres, dynamics) and instrumentation (spectroscopy, photometry, astrophotonics).\nExplore my projects and research, or read a bit about me."
   }
 ]

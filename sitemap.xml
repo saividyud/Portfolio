@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://saividyud.github.io/Portfolio/index.html</loc>
-    <lastmod>2026-08-06T17:24:08.908Z</lastmod>
+    <loc>https://saividyud.github.io/Portfolio/projects.html</loc>
+    <lastmod>2026-08-07T15:55:37.259Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saividyud.github.io/Portfolio/research.html</loc>
+    <lastmod>2026-08-07T15:55:37.259Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saividyud.github.io/Portfolio/projects/research-project-2.html</loc>
+    <lastmod>2026-08-07T15:55:37.259Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saividyud.github.io/Portfolio/projects/engineering-project-3.html</loc>
+    <lastmod>2026-08-07T15:55:37.259Z</lastmod>
   </url>
   <url>
     <loc>https://saividyud.github.io/Portfolio/about.html</loc>
-    <lastmod>2026-08-06T17:24:08.908Z</lastmod>
+    <lastmod>2026-08-07T15:55:37.258Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saividyud.github.io/Portfolio/projects/research-project-1.html</loc>
+    <lastmod>2026-08-07T15:55:37.259Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saividyud.github.io/Portfolio/projects/engineering-project-1.html</loc>
+    <lastmod>2026-08-07T15:55:37.259Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saividyud.github.io/Portfolio/projects/engineering-project-2.html</loc>
+    <lastmod>2026-08-07T15:55:37.259Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saividyud.github.io/Portfolio/index.html</loc>
+    <lastmod>2026-08-07T15:55:37.259Z</lastmod>
   </url>
 </urlset>
